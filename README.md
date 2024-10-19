@@ -8,11 +8,18 @@ Ahmed mohamed khedr bayoumi
 01017079638
 
 
+# Demo
+Here's a demo of the coffee app concept animation:
+- On iOS:
+![Coffee Animation Design Challenge](demo.gif)
+- On Windows: 
+![Coffee Animation Design Challenge](windows_demo.gif)
 
 
 
 flutter run
 ```
+
 
 
 
