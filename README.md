@@ -1,14 +1,8 @@
-# Coffee App Challenge: Design Challenge Animation
+# Coffee App UI
 
 ## Introduction
-This is a Flutter project that showcases a Coffee app concept animation, which was created as part of a design challenge. The goal of this project is to demonstrate the creative process of designing and animating an app concept. 
-
-## Demo
-Here's a demo of the coffee app concept animation:
-- On iOS:
-![Coffee Animation Design Challenge](demo.gif)
-- On Windows: 
-![Coffee Animation Design Challenge](windows_demo.gif)
+Ahmed mohamed khedr bayoumi
+01017079638
 
 
 
@@ -26,14 +20,7 @@ Here's a demo of the coffee app concept animation:
 flutter run
 ```
 
-## Contributing
-Feel free to contribute by creating a pull request. Your contributions are always welcome!
-
-## References
-This project was inspired by a coffee app concept animation created by [Jacob Janura - 
-Coffee App / Animation](https://dribbble.com/shots/14166097-Coffee-App).
 
 
 
-## License
-This project is intended for educational purposes only and may not be used for commercial purposes. See the [LICENSE.md](LICENSE.md) file for details.
+
