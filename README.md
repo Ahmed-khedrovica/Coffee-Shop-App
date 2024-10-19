@@ -13,7 +13,9 @@ Here's a demo of the coffee app concept animation:
 
 - On Mobile:
 ![Coffee Animation Design Challenge](demo.gif)
-- On Windows: 
+- On Windows:
+- ![Coffee Animation Design](windows_demo.gif)
+
  
 
 
